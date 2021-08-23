@@ -52,7 +52,7 @@ Back-End - Node.js, Express.js & MongoDB
 
 ## Output
   
-![XMEME](/Pictures/XMEME.png)
+  ![xmemess](https://user-images.githubusercontent.com/79842525/130498056-ae7582e5-f0cb-4df0-a323-4ee5b95aef7b.png)
 
 ## Deployment
 
